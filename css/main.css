@@ -58,6 +58,7 @@ a{
 
 #overlay p {
   color: #fff;
+  font-size: 1.3em
 }
 /*=====================
       Media Queries
@@ -85,7 +86,10 @@ a{
 
   #overlay img{
   width: 85%;
-}
+} 
+  #overlay p{
+    font-size: 1.1em;
+  }
 
 }
 
